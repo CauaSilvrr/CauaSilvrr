@@ -1,6 +1,6 @@
 ## Cauã Derick da Silveira
 Cauã Derick da Silveira 18y 
-Cursando Desenvolvimento de Software Multiplataforma - Fatec Itapir
+Cursando Desenvolvimento de Software Multiplataforma - Fatec Itapira
 
 
 <div style="display: inline_block"><br>
